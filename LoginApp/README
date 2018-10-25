@@ -1,0 +1,11 @@
+1. The app is built on Apache Tomcat 9, Struts 2.5
+
+2. Followed the tutorial at https://java2blog.com/login-page-with-validation-in-struts-2/
+
+3. when setting up the environment, adding jar files listed in https://java2blog.com/configuring-struts-2/
+including log4j-api-2.10.0.jar
+
+4. changes in struts2.5 https://cwiki.apache.org/confluence/display/WW/Struts+2.3+to+2.5+migration
+(note: our strut.xml not running when adding listener)
+
+5. Currently no database implemented
