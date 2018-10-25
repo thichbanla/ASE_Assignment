@@ -9,3 +9,5 @@ including log4j-api-2.10.0.jar
 (note: our strut.xml not running when adding listener)
 
 5. Currently no database implemented
+
+6. Enter http://localhost:8080/LoginApp/login to launch the app
